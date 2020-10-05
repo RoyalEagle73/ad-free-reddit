@@ -1,4 +1,4 @@
-![New Project (9)](https://user-images.githubusercontent.com/34307370/95109760-aa448380-075a-11eb-8705-45e44387bc7f.png)
+![New Project (11)](https://user-images.githubusercontent.com/34307370/95110393-8f264380-075b-11eb-9fba-16bfc5f60022.png)
 
 # Ad Free Reddit
 A chrome extension to remove ads from reddit.
