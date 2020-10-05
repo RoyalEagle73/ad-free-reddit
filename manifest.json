@@ -1,0 +1,29 @@
+{
+	"maifest_version" : 2,
+
+	"name": "ad-free-reddit",
+	"description": "An ad remover for reddit",
+	"version" : "1.0",
+
+	"content_scripts" : [
+		{
+			"js":["remover.js"],
+			"run_at": "document_idle",
+			"mathes": [
+					"https://reddit.com/*",
+					"reddit.com/*",
+					"https://reddit.com",
+					"https://wwww.reddit.com",
+					"https://www.reddit.com/*",
+					"reddit.com",
+					"www.reddit.com/*",
+					"www.reddit.com"
+				]
+		}
+	],
+
+	"permissions":[
+		"tabs",
+		"activeTab"
+	]
+}
