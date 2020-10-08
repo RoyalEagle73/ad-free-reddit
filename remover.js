@@ -10,7 +10,6 @@ setInterval(function(){
    	 		ads[i].outerHTML = "";
 			console.log("Ad removed, Ads remaining = " + ads.length);
 		}
-	}
 
 	for(i=0; i<promotions.length; i++){
    	 		promotions[i].outerHTML = "";

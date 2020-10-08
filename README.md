@@ -3,6 +3,10 @@
 # Ad Free Reddit
 A chrome extension to remove ads from reddit.
 
+### Changelog
+#### v1.1
+- Added promotion posts blocker alongwith ads blocker.
+
 ### How to use
 1. Download repo or Clone the repo by following command
 	`git clone https://github.com/RoyalEagle73/ad-free-reddit.git`
