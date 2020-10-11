@@ -3,12 +3,12 @@
 # Ad Free Reddit
 A chrome extension to remove ads from reddit.
 
-### Type of Ads currently being blocked:
+## Type of Ads currently being blocked:
 - Sidebar Advertisements
 - Promotion posts
 - RPAN Advertisements
 
-### Changelog
+## Changelog
 
 #### v1.2
 - Added support to block RPAN ads.
@@ -16,7 +16,7 @@ A chrome extension to remove ads from reddit.
 #### v1.1
 - Added promotion posts blocker alongwith ads blocker.
 
-### How to use
+## How to use
 1. Download repo or Clone the repo by following command
 	`git clone https://github.com/RoyalEagle73/ad-free-reddit.git`
 2. Open Google-Chrome and goto three dots menu and goto 'more tools'.
@@ -24,10 +24,10 @@ A chrome extension to remove ads from reddit.
 4. Now, click on 'load Unpacked' and select the downloaded or cloned repo folder, and now you're good to go.
 5. Voila, enjoy the reddit Ad-free now.
 
-### Languge Used
+## Languge Used
 Javascript
 
-### Credits
+## Credits
 I got the basic idea from a reddit post with title [Develop a simple chrome extension to remove YouTube advertisements](https://www.reddit.com/r/programmer/comments/j5bl7w/develop_a_simple_chrome_extension_to_remove/)
 
 ⛥ the repo, if it helped you :)
