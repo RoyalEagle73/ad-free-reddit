@@ -3,7 +3,16 @@
 # Ad Free Reddit
 A chrome extension to remove ads from reddit.
 
+### Type of Ads currently being blocked:
+- Sidebar Advertisements
+- Promotion posts
+- RPAN Advertisements
+
 ### Changelog
+
+#### v1.2
+- Added support to block RPAN ads.
+
 #### v1.1
 - Added promotion posts blocker alongwith ads blocker.
 

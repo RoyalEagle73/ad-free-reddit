@@ -7,6 +7,7 @@ setInterval(function(){
 
 	// Concatenating all ads in one
 	ads = [...ads, ...promotions, ...rpan];
+	console.log("Found total " + ads.length + " ads");
 
 	// Deleting all ads
 	for(i=0; i<ads.length; i++){
@@ -14,4 +15,4 @@ setInterval(function(){
 			//console.log("Ad removed, Ads remaining = " + ads.length);
 	}
 
-} ,3000)
+} ,2000)
